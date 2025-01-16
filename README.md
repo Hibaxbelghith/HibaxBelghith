@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student specializing in Web Development 💻</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" alt="Developer at Work" width="600"/>
+  <img src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966" alt="Developer at Work" width="500"/>
 </p>
 
 ---
