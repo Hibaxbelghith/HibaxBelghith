@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiba Belghith</h1>
 <h3 align="center">A passionate Computer Engineering student specializing in Web Development 💻</h3>
 
-<div align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/10/31/12/55/girl-1018924_960_720.jpg" alt="Developer Image" width="300"/>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77658458/203125617-f515791f-6b66-4737-8e8d-0ef931d7e084.png" alt="Developer at Work" width="600"/>
+</p>
 
 ---
 
