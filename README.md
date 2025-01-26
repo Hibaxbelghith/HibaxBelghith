@@ -33,8 +33,7 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hibaxbelghith&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaxbelghith&theme=dark&hide_border=false" /> 
+
 </td>
 
 <td width="50%" align="center">
